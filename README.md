@@ -1,0 +1,2 @@
+# ihtiyacin-olmayabilir
+İhtiyacın olmayabilir
